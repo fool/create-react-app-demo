@@ -31,6 +31,7 @@ export default function App() {
             <About />
           </Route>
           <Route path="/users">
+            <h1>this is our users page!</h1>
             <Users />
           </Route>
           <Route path="/">
