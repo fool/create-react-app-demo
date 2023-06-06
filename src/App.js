@@ -34,6 +34,10 @@ export default function App() {
             <h1>this is our users page!</h1>
             <Users />
           </Route>
+          <Route path="/added-page">
+            <h1>ADDED PAGE!</h1>
+            <added-page />
+          </Route>
           <Route path="/">
             <Home />
           </Route>
