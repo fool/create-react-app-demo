@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# This content was used with a demo webinar around troubleshooting 404's on netlify in late 2023
+
+It was forked from the below code, whose README I'll leave intact below.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
